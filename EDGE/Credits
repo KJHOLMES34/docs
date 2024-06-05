@@ -1,4 +1,12 @@
----
+---echo "# Keith-Jermaine-Holmes-" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:KJHOLMES34/Keith-Jermaine-Holmes-.git git push -u origin maingit remote add origin git@github.com:KJHOLMES34/Keith-Jermaine-Holmes-.git git branch -M main git push -u origin maingit remote add origin git@github.com:KJHOLMES34/Keith-Jermaine-Holmes-.git
+git branch -M main
+git push -u origin mainecho "# Keith-Jermaine-Holmes-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:KJHOLMES34/Keith-Jermaine-Holmes-.git
+git push -u origin maingit@github.com:KJHOLMES34/Keith-Jermaine-Holmes-.git
 title: GitHub Codespaces overview
 shortTitle: Overview
 intro: 'This guide introduces {% data variables.product.prodname_github_codespaces %} and provides details on how it works and how to use it.'
